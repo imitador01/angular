@@ -1,0 +1,6 @@
+@"
+node_modules/
+dist/
+.angular/
+target/
+"@ | Out-File -FilePath .gitignore -Encoding utf8
